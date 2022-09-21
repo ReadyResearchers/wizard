@@ -29,12 +29,12 @@ to be more ready contributors to their education in computer science.
 
 ### Hardware dependencies
 
-This program requires a high-uptime/availability server to respond to webhook requests from GitHub.
+This program requires a high-uptime/availability server to respond to webhook requests from GitHub. We encourage a domain name to resolve to.
+rather than just an IP address. (Because, of course, that seems like you're trying to steal someone's credit card information.)
 
 ### GitHub requirements
 
-`wizard` requires an organization-level webhook to the URL endpoint at which the application is hosted. It's best if this resolves to a
-domain name rather than just an IP address. (Because, of course, that seems like you're trying to steal someone's credit card information.)
+`wizard` requires an organization-level webhook to the URL endpoint at which the application is hosted.
 
 ## Running `wizard`
 

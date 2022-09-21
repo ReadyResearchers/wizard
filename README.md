@@ -1,6 +1,6 @@
 # `wizard`
 
-![8-bit wizard hat and name in type in gradations of red and blue][]
+![8-bit wizard hat and name in type in gradations of red and blue](https://github.com/ReadyResearchers/wizard/blob/media/media/wizard.png)
 
 ## Features
 

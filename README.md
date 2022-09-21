@@ -32,7 +32,7 @@ This program requires a high-uptime/availability server to respond to webhook re
 ### GitHub requirements
 
 `wizard` requires an organization-level webhook to the URL endpoint at which the application is hosted. It's best if this resolves to a
-domain name rather than just an IP address. (Because, that seems like you're trying to steal someone's credit card information.)
+domain name rather than just an IP address. (Because, of course, that seems like you're trying to steal someone's credit card information.)
 
 ## Running `wizard`
 

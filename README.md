@@ -39,4 +39,4 @@ domain name rather than just an IP address. (Because, of course, that seems like
 ## Running `wizard`
 
 This software is compatible with a number of "daemonizing" applications, with a preference for `pm2` -- the application configuration for
-this is included in this repository.
+this platform is included in this repository.

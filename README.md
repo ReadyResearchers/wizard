@@ -34,7 +34,7 @@ rather than just an IP address. (Because, of course, that seems like you're tryi
 
 ### GitHub requirements
 
-`wizard` requires an organization-level webhook to the URL endpoint at which the application is hosted.
+`wizard` requires an organization-level webhook to the URL endpoint of the application host.
 
 ## Running `wizard`
 

@@ -1,0 +1,24 @@
+{
+  "name": "wizard",
+  "version": "1.0.0",
+  "description": "![8-bit wizard hat and name in type in gradations of red and blue](https://github.com/ReadyResearchers/wizard/blob/media/media/wizard.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReadyResearchers/wizard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReadyResearchers/wizard/issues"
+  },
+  "homepage": "https://github.com/ReadyResearchers/wizard#readme",
+  "dependencies": {
+    "@actions/core": "^1.9.1",
+    "@actions/github": "^5.1.0"
+  }
+}
